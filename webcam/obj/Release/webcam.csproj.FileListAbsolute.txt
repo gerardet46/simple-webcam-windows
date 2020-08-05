@@ -1,0 +1,17 @@
+C:\Users\gerry\source\repos\webcam\webcam\bin\Release\webcam.exe.config
+C:\Users\gerry\source\repos\webcam\webcam\bin\Release\webcam.exe
+C:\Users\gerry\source\repos\webcam\webcam\bin\Release\webcam.pdb
+C:\Users\gerry\source\repos\webcam\webcam\bin\Release\AForge.dll
+C:\Users\gerry\source\repos\webcam\webcam\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\gerry\source\repos\webcam\webcam\bin\Release\AForge.Video.dll
+C:\Users\gerry\source\repos\webcam\webcam\bin\Release\AForge.xml
+C:\Users\gerry\source\repos\webcam\webcam\bin\Release\AForge.Video.xml
+C:\Users\gerry\source\repos\webcam\webcam\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\gerry\source\repos\webcam\webcam\obj\Release\webcam.csprojAssemblyReference.cache
+C:\Users\gerry\source\repos\webcam\webcam\obj\Release\webcam.Form1.resources
+C:\Users\gerry\source\repos\webcam\webcam\obj\Release\webcam.Properties.Resources.resources
+C:\Users\gerry\source\repos\webcam\webcam\obj\Release\webcam.csproj.GenerateResource.cache
+C:\Users\gerry\source\repos\webcam\webcam\obj\Release\webcam.csproj.CoreCompileInputs.cache
+C:\Users\gerry\source\repos\webcam\webcam\obj\Release\webcam.csproj.CopyComplete
+C:\Users\gerry\source\repos\webcam\webcam\obj\Release\webcam.exe
+C:\Users\gerry\source\repos\webcam\webcam\obj\Release\webcam.pdb

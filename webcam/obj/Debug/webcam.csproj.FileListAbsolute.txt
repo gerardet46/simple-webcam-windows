@@ -1,0 +1,17 @@
+C:\Users\gerry\source\repos\webcam\webcam\obj\Debug\webcam.csprojAssemblyReference.cache
+C:\Users\gerry\source\repos\webcam\webcam\obj\Debug\webcam.Form1.resources
+C:\Users\gerry\source\repos\webcam\webcam\obj\Debug\webcam.Properties.Resources.resources
+C:\Users\gerry\source\repos\webcam\webcam\obj\Debug\webcam.csproj.GenerateResource.cache
+C:\Users\gerry\source\repos\webcam\webcam\obj\Debug\webcam.csproj.CoreCompileInputs.cache
+C:\Users\gerry\source\repos\webcam\webcam\bin\Debug\webcam.exe.config
+C:\Users\gerry\source\repos\webcam\webcam\bin\Debug\webcam.exe
+C:\Users\gerry\source\repos\webcam\webcam\bin\Debug\webcam.pdb
+C:\Users\gerry\source\repos\webcam\webcam\bin\Debug\AForge.dll
+C:\Users\gerry\source\repos\webcam\webcam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\gerry\source\repos\webcam\webcam\bin\Debug\AForge.Video.dll
+C:\Users\gerry\source\repos\webcam\webcam\bin\Debug\AForge.xml
+C:\Users\gerry\source\repos\webcam\webcam\bin\Debug\AForge.Video.xml
+C:\Users\gerry\source\repos\webcam\webcam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\gerry\source\repos\webcam\webcam\obj\Debug\webcam.csproj.CopyComplete
+C:\Users\gerry\source\repos\webcam\webcam\obj\Debug\webcam.exe
+C:\Users\gerry\source\repos\webcam\webcam\obj\Debug\webcam.pdb
